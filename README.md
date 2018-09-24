@@ -1,4 +1,7 @@
 # CPE 315 Lab 1 -- Piku
+## Name: Stephen Perreira 
+## Status of Lab 1: Complete
+## Compilation instructions: 'gcc -o hello_word piku.s' and './hello_world'
 
 ## Things to include in your README
 
