@@ -1,18 +1,11 @@
 # CPE 315 Lab 1 -- Piku
-## Name: Stephen Perreira 
-## Status of Lab 1: Complete
-## Compilation instructions: 'gcc -o hello_word piku.s' and './hello_world'
 
-## Things to include in your README
-
-* Your name. Indicate if you go by a nickname.
-* Status of your lab
-  * Complete, partially complete, incomplete
-  * If not complete, what does work? What doesn't?
+* Name: Stephen Perreira
+* Status of lab
+  * Complete
 * Compilation and execution instructions
-  * `gcc -o piku piku.s` or `make`
-  * `./piku`
-* Issues that you encountered along the way, and anything you have questions about.
+  * `gcc -o hello_world piku.s`
+  * `./hello_world`
 
 These README files have a fairly rich _Markdown_ environment. You should use
 markdown syntax to format your README files in such a way that they look
